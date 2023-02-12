@@ -10,6 +10,3 @@ NEWS Impulse Theme Looking nice Profiles / Headers
 
 
 ![Untitled design (2)](https://user-images.githubusercontent.com/119082780/218312319-d2b8bf9b-41a2-4164-9faa-e07213cfd779.gif)
-
-
-![Untitled design (2)](https://user-images.githubusercontent.com/119082780/218312333-0c7f1b25-258a-44a3-a04b-2b1b4765fdcb.gif)
